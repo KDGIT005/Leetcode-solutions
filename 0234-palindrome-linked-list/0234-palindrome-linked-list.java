@@ -21,6 +21,9 @@ class Solution {
         return last;
     }
     public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+    return true;
+}
         ListNode slow = head;
         ListNode fast = head;
         while(fast.next != null && fast.next.next != null){
