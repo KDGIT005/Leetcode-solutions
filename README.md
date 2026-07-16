@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [1301-number-of-paths-with-max-score](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [1922-count-good-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Divide and Conquer
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
