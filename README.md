@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0046-permutations) |
+| [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Number Theory
 |  |
 | ------- |
