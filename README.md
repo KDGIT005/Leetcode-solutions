@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [1922-count-good-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1922-count-good-numbers) |
