@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0046-permutations) |
+| [0113-path-sum-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
 | ------- |
