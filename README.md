@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -199,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
