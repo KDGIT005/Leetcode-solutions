@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0046-permutations) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
