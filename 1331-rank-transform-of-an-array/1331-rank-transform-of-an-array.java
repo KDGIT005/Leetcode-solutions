@@ -10,7 +10,7 @@ class Solution {
                 rank++;
             }
         }
-        for(int i=0; i<copy.length; i++){
+        for(int i=0; i<arr.length; i++){
             arr[i] = map.get(arr[i]);
         }
         return arr;
