@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3692-majority-frequency-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Game Theory
 |  |
 | ------- |
