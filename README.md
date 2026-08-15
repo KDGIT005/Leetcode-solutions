@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
