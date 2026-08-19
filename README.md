@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3692-majority-frequency-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
