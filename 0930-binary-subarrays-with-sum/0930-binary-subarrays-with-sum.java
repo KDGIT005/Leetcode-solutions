@@ -1,15 +1,19 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         int n =nums.length;
-        int cnt=0;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int preSum=0;
+        int count=0;
+        map.put(0,1);
 
-        for(int i=0;i<n;i++){
-            int sum=0;
-            for(int j=i;j<n;j++){
-                sum+=nums[j];
-                if(sum==goal) cnt++;
+        for(int num:nums){
+            preSum += num;
+            int remove = preSum - goal;
+            if(map.containsKey(remove)){
+                count += map.get(remove);
             }
-        }
-        return cnt;
+            map.put(preSum,map.getOrDefault(preSum,0)+1);
+        }   
+        return count;
     }
 }
