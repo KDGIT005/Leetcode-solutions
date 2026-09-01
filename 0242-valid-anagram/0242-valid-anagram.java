@@ -19,6 +19,6 @@ class Solution {
             
         }
 
-        return true;
+        return map.isEmpty();
     }
 }
