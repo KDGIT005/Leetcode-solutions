@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0877-stone-game) |
