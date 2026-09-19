@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-       ListNode temp = head;
+         ListNode temp = head;
        ArrayList<Integer> arr = new ArrayList<>();
        while(temp != null){
          arr.add(temp.val);
