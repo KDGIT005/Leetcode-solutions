@@ -10,31 +10,35 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        ArrayList<ListNode> list = new ArrayList<>();
+         ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode temp = head;
-
-        while (temp != null) {
-            list.add(temp);
-            temp = temp.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
+        ListNode prev = null;
+        ListNode curr = slow.next;
+        slow.next = null;
 
-        int l = 0;
-        int r = list.size() - 1;
-
-        while (l < r) {
-            list.get(l).next = list.get(r);
-            l++;
-
-            if (l == r) {
-                break;
-            }
-
-            list.get(r).next = list.get(l);
-            r--;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+         ListNode first = head;
+        ListNode second = prev;
 
-        list.get(l).next = null;
+        while (second != null) {
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
 
+            first.next = second;
+            second.next = temp1;
+
+            first = temp1;
+            second = temp2;
+        }    
     }
 }
