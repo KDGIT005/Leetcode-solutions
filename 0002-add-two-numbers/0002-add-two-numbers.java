@@ -14,11 +14,10 @@ class Solution {
         ListNode temp = dummy;
         ListNode t1 = l1;
         ListNode t2 = l2;
-        int sum = 0;
         int digit = 0;
         int carry = 0;
         while(t1 != null || t2 != null || carry != 0 ){
-            sum = carry;
+            int sum = carry;
             if(t1 != null){
                 sum += t1.val;
                 t1 = t1.next;
