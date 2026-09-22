@@ -14,7 +14,7 @@ class Solution {
         ListNode temp = dummy;
         ListNode t1 = l1;
         ListNode t2 = l2;
-        int digit = 0;
+        //int digit = 0;
         int carry = 0;
         while(t1 != null || t2 != null || carry != 0 ){
             int sum = carry;
@@ -26,7 +26,7 @@ class Solution {
                 sum += t2.val;
                 t2 = t2.next;
             }
-            digit = sum % 10;
+           int digit = sum % 10;
             carry = sum/10;
             temp.next = new ListNode(digit);
             temp = temp.next; 
