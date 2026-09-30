@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Pigeonhole Principle
 |  |
