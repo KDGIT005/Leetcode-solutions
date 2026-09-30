@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1748-sum-of-unique-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
