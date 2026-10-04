@@ -10,7 +10,6 @@ class Solution {
                 }
             }
             ans[i] = cnt;
-            cnt = 0;
         }
         return ans;
     }
