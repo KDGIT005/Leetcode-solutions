@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1046-last-stone-weight) |
