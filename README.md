@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0853-car-fleet) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
