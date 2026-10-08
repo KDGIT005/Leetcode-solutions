@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Array
