@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
