@@ -13,7 +13,7 @@ class Solution {
         ListNode temp = head;
         ListNode last = null;
         while(temp != null){
-           ListNode front = temp.next;
+            ListNode front = temp.next;
             temp.next = last;
             last = temp;
             temp = front;
