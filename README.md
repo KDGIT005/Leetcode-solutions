@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3692-majority-frequency-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Divide and Conquer
 |  |
 | ------- |
