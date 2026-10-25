@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
