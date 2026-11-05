@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -593,12 +597,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
