@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
