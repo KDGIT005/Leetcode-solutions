@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
