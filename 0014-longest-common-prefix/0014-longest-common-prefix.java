@@ -7,6 +7,6 @@ class Solution {
         while(i<l.length() && i<r.length() && l.charAt(i) == r.charAt(i)){
             i++;
         }
-        return r.substring(0,i);
+        return l.substring(0,i);
     }
 }
