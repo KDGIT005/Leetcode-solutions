@@ -4,12 +4,13 @@ class Solution {
         int[] ans = new int[n];
         for(int i = 0; i<n; i++){
             int cnt = 0;
-            for(int j = 0; j<n; j++){
+            for(int j =0; j<n; j++){
                 if(nums[i] > nums[j]){
                     cnt++;
                 }
             }
             ans[i] = cnt;
+            cnt = 0;
         }
         return ans;
     }
