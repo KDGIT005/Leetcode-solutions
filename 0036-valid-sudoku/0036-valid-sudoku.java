@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        // Check rows
         for (int i = 0; i < 9; i++) {
             HashSet<Character> set = new HashSet<>();
 
@@ -10,12 +9,12 @@ class Solution {
                 if (ch == '.')
                     continue;
 
-                if (!set.add(ch)) {
+                if (set.contains(ch)) {
                     return false;
                 }
+                set.add(ch);
             }
         }
-        // Check columns
         for (int j = 0; j < 9; j++) {
             HashSet<Character> set = new HashSet<>();
 
@@ -25,12 +24,12 @@ class Solution {
                 if (ch == '.')
                     continue;
 
-                if (!set.add(ch)) {
+                if (set.contains(ch)) {
                     return false;
                 }
+                set.add(ch);
             }
         }
-        // Check 3 x 3 boxes
         for (int row = 0; row < 9; row += 3) {
             for (int col = 0; col < 9; col += 3) {
                 HashSet<Character> set = new HashSet<>();
