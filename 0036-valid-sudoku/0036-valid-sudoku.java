@@ -1,22 +1,55 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        HashSet<String> set = new HashSet<>();
+        // Check rows
         for (int i = 0; i < 9; i++) {
+            HashSet<Character> set = new HashSet<>();
+
             for (int j = 0; j < 9; j++) {
-                char num = board[i][j];
-                if (num == '.') {
+                char ch = board[i][j];
+
+                if (ch == '.')
                     continue;
-                }
-                String row = num + " in row " + i;
-                String col = num + " in col " + j;
-                String box = num + " in box " + (i / 3) + "-" + (j / 3);
-                if (!set.add(row) ||
-                    !set.add(col) ||
-                    !set.add(box)) {
+
+                if (!set.add(ch)) {
                     return false;
                 }
             }
         }
+        // Check columns
+        for (int j = 0; j < 9; j++) {
+            HashSet<Character> set = new HashSet<>();
+
+            for (int i = 0; i < 9; i++) {
+                char ch = board[i][j];
+
+                if (ch == '.')
+                    continue;
+
+                if (!set.add(ch)) {
+                    return false;
+                }
+            }
+        }
+        // Check 3 x 3 boxes
+        for (int row = 0; row < 9; row += 3) {
+            for (int col = 0; col < 9; col += 3) {
+                HashSet<Character> set = new HashSet<>();
+
+                for (int i = row; i < row + 3; i++) {
+                    for (int j = col; j < col + 3; j++) {
+                        char ch = board[i][j];
+
+                        if (ch == '.')
+                            continue;
+
+                        if (!set.add(ch)) {
+                            return false;
+                        }
+                    }
+                }
+            }
+        }
+
         return true;
     }
 }
