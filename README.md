@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KDGIT005/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/KDGIT005/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/KDGIT005/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
