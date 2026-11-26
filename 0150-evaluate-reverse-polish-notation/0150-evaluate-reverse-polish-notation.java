@@ -7,10 +7,8 @@ class Solution {
                ch.equals("-")||
                ch.equals("*")||
                ch.equals("/")){
-
                 int b = st.pop();
                 int a = st.pop();
-
                 int res = 0;
                 if(ch.equals("+")){
                     res = a + b;
