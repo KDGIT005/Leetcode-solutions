@@ -20,9 +20,6 @@ class Solution {
                 list2.add(x);
             }
         }
-        List<List<Integer>> ans = new ArrayList<>();
-        ans.add(list1);
-        ans.add(list2);
-        return ans;
+        return Arrays.asList(list1 , list2);
     }
 }
